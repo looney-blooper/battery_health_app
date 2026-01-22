@@ -1,0 +1,6 @@
+[Unit]
+Description = Battery Health Monitoring Service
+
+[Service]
+Type = oneshot
+ExecStart = /usr/bin/python3 /opt/battery_health/app.py
