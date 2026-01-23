@@ -25,9 +25,6 @@
 tar -xzvf battery_health_app_v1.0.tar.gz
 cd battery_health_app
 sudo ./install.sh
-
-
-
 ```
 
 > **⚠️ Note:** This repository contains the **deployed application** designed to run silently in the background on Linux laptops.
