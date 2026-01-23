@@ -6,6 +6,30 @@
 ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 ![Privacy](https://img.shields.io/badge/Privacy-Offline%20%26%20Local-lightgrey)
 
+
+## ⬇️ Download
+
+> ⚠️ **Platform Support**
+>
+> This application is **supported only on Linux systems**.
+>  
+> It relies on Linux kernel interfaces (`/sys/class/power_supply`) and
+> systemd services, which are **not available on Windows or macOS**.
+
+**Latest stable release:**
+
+👉 [Download Battery Health Monitor v1.0](https://github.com/<your-username>/<repo-name>/releases/latest)
+
+### Quick install (Linux only)
+```bash
+tar -xzvf battery_health_app_v1.0.tar.gz
+cd battery_health_app
+sudo ./install.sh
+
+
+
+```
+
 > **⚠️ Note:** This repository contains the **deployed application** designed to run silently in the background on Linux laptops.
 > **It contains no training pipelines.** For model training and MLOps, please refer to the companion repository.
 
