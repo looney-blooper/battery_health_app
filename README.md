@@ -18,7 +18,7 @@
 
 **Latest stable release:**
 
-👉 [Download Battery Health Monitor v1.0](https://github.com/<your-username>/<repo-name>/releases/latest)
+👉 [Download Battery Health Monitor v1.0]([https://github.com/<your-username>/<repo-name>/releases/latest](https://github.com/looney-blooper/battery_health_app/releases/download/v1.0.0/battery_health_app_v1.0.tar.gz))
 
 ### Quick install (Linux only)
 ```bash
